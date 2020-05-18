@@ -1,0 +1,41 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Cold Green Eyes",
+  "_songSubName": " (ft. Roos Denayer)",
+  "_songAuthorName": "Station Earth",
+  "_levelAuthorName": "Tall_Chilis_Boi",
+  "_beatsPerMinute": 174,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": -50,
+            "_editorOldOffset": -50,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

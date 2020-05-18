@@ -1,0 +1,267 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Castle of Roses and Thorns",
+  "_songSubName": "Chie Fukami",
+  "_songAuthorName": "Shibayan Records",
+  "_levelAuthorName": "AaltopahWi",
+  "_beatsPerMinute": 127,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 50,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "GreenDayEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_editorOffset": 53,
+            "_editorOldOffset": 53,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "Chroma",
+              "Chroma Lighting Events"
+            ],
+            "_requirements": [],
+            "_environmentRemoval": [
+              "Logo",
+              "GreenDayCity",
+              "GlowLineL (2)",
+              "GlowLineL (4)",
+              "GlowLineL (13)",
+              "GlowLineL (14)",
+              "GlowLineL (7)",
+              "GlowLineL (8)",
+              "GlowLineL (15)",
+              "GlowLineL (16)",
+              "GlowLineL (17)",
+              "GlowLineL (18)",
+              "GlowLineL (19)",
+              "GlowLineL (20)",
+              "GlowLineL (21)",
+              "GlowLineL (22)",
+              "GlowLineL (23)",
+              "GlowLineL (24)"
+            ],
+            "_colorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_colorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            },
+            "_envColorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_envColorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            }
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_editorOffset": 53,
+            "_editorOldOffset": 53,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "Chroma",
+              "Chroma Lighting Events"
+            ],
+            "_requirements": [],
+            "_environmentRemoval": [
+              "Logo",
+              "GreenDayCity",
+              "GlowLineL (2)",
+              "GlowLineL (4)",
+              "GlowLineL (13)",
+              "GlowLineL (14)",
+              "GlowLineL (7)",
+              "GlowLineL (8)",
+              "GlowLineL (15)",
+              "GlowLineL (16)",
+              "GlowLineL (17)",
+              "GlowLineL (18)",
+              "GlowLineL (19)",
+              "GlowLineL (20)",
+              "GlowLineL (21)",
+              "GlowLineL (22)",
+              "GlowLineL (23)",
+              "GlowLineL (24)"
+            ],
+            "_colorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_colorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            },
+            "_envColorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_envColorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            }
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 22,
+          "_noteJumpStartBeatOffset": 0.30000001192092896,
+          "_customData": {
+            "_editorOffset": 53,
+            "_editorOldOffset": 53,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [
+              "Chroma",
+              "Chroma Lighting Events"
+            ],
+            "_requirements": [],
+            "_environmentRemoval": [
+              "Logo",
+              "GreenDayCity",
+              "GlowLineL (2)",
+              "GlowLineL (4)",
+              "GlowLineL (13)",
+              "GlowLineL (14)",
+              "GlowLineL (7)",
+              "GlowLineL (8)",
+              "GlowLineL (15)",
+              "GlowLineL (16)",
+              "GlowLineL (17)",
+              "GlowLineL (18)",
+              "GlowLineL (19)",
+              "GlowLineL (20)",
+              "GlowLineL (21)",
+              "GlowLineL (22)",
+              "GlowLineL (23)",
+              "GlowLineL (24)"
+            ],
+            "_colorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_colorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            },
+            "_envColorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_envColorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            }
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyLightshow.dat",
+          "_noteJumpMovementSpeed": 24,
+          "_noteJumpStartBeatOffset": -0.200000002980232,
+          "_customData": {
+            "_difficultyLabel": "Witch's Castle",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_suggestions": [
+              "Chroma",
+              "Chroma Lighting Events"
+            ],
+            "_requirements": [],
+            "_environmentRemoval": [
+              "Logo",
+              "GreenDayCity",
+              "GlowLineL (2)",
+              "GlowLineL (4)",
+              "GlowLineL (13)",
+              "GlowLineL (14)",
+              "GlowLineL (7)",
+              "GlowLineL (8)",
+              "GlowLineL (15)",
+              "GlowLineL (16)",
+              "GlowLineL (17)",
+              "GlowLineL (18)",
+              "GlowLineL (19)",
+              "GlowLineL (20)",
+              "GlowLineL (21)",
+              "GlowLineL (22)",
+              "GlowLineL (23)",
+              "GlowLineL (24)"
+            ],
+            "_colorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_colorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            },
+            "_envColorLeft": {
+              "r": 0.8515625,
+              "g": 0.08984375,
+              "b": 0.08984375
+            },
+            "_envColorRight": {
+              "r": 0.1796875,
+              "g": 0.5390625,
+              "b": 0.91015625
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

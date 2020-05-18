@@ -1,0 +1,47 @@
+{
+  "_version": "2.0.0",
+  "_songName": "New World",
+  "_songSubName": "",
+  "_songAuthorName": "KIRA",
+  "_levelAuthorName": "Rexxz",
+  "_beatsPerMinute": 180,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "world.egg",
+  "_coverImageFilename": "kira.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "Lightshow",
+            "_editorOffset": -285,
+            "_editorOldOffset": -285
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_editorOffset": -285,
+            "_editorOldOffset": -285
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
